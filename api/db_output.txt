@@ -1,0 +1,51 @@
+﻿[dotenv@17.3.1] injecting env (7) from ..\frontend\.env -- tip: ≡ƒ¢á∩╕Å  run anywhere with `dotenvx run -- yourcommand`
+Connecting to: mongodb+srv://balasubramanisivakumar_db_user:rnGYOUPrUzi6FDU3@cluster0.jtlokxa.mongodb.net/bharatx?retryWrites=true&w=majority
+Total Markets found: 16
+Market: Will India win the next T20 Series?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Bitcoin to cross $100k by end of 2026?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will the Nifty 50 touch 25,000 this month?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will any Indian movie win an Oscar in 2026?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will BJP win the 2027 UP Assembly Elections?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will Apple launch its first Foldable iPhone in 2026?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will India reach 8% GDP growth in 2026?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will RCB win IPL 2026?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will Sensex cross 1,00,000 by end of 2026?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will a SpaceX starship land on Mars in 2026?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will Pushpa 3 cross Γé╣1000 Crore worldwide?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will Neeraj Chopra break the 90m javelin barrier in 2026?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will India officially host the 2036 Olympics?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will Flipkart IPO launch in 2026?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will UPI cross 20 Billion monthly transactions?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0
+Market: Will Zomato deliver via drones in 2026?
+  - Status: live, Resolved: false, Outcome: null
+  - Volume: Γé╣0

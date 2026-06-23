@@ -1,0 +1,18 @@
+﻿[dotenv@17.3.1] injecting env (7) from ..\frontend\.env -- tip: ΓÜÖ∩╕Å  load multiple .env files with { path: ['.env.local', '.env'] }
+[
+  {
+    "_id": "69c51e5e29072a497856e147",
+    "email": "siva5@bharatx.com",
+    "realWallet": 0
+  },
+  {
+    "_id": "69c51f79f3a71f78283360cd",
+    "email": "admin@bharatx.com",
+    "realWallet": 500
+  },
+  {
+    "_id": "69c5315e12f437e8fc318ba3",
+    "email": "demo@bharatx.com",
+    "realWallet": 0
+  }
+]
